@@ -198,7 +198,7 @@ button {
           transform: rotate(90deg);
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
-  fill: #009245;
+  fill: #FF8882;
   width: 12px;
   height: 24px;
 }
@@ -293,6 +293,7 @@ button {
 
 .section-title--keycolor {
   background-color: #2c4f54;
+  color: #fff;
 }
 
 .section-title--story {
